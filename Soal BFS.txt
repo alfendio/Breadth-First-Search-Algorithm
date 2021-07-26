@@ -1,0 +1,7 @@
+Nenek moyangku adalah seorang pelaut, mempunyai 3 penerus utama, penerus pertama mempunyai 4 keturunan dan mendapat 2 cucu dari kakak anak terakhir, serta 3 cucu dari adik anak pertama. 
+Penerus kedua hanya memiliki 1 cucu yang berasal dari anak anak bungsu dari saudara yang sejumlah dengan urutan diatasnya. 
+Aku adalah anak dari adik pertama dari anak penerus ketiga dan bapakku memiliki seorang adik yang cantik.
+
+Buatlah program yang menjawab pertanyaan berikut:
+- Berikan output hasil BFS!
+- Dalam hasil pencarian BFS berada diurutan berapakah aku?
